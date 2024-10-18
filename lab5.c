@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main() {
-    puts("Duru");
+    puts("Hello");
     return 0;
 }
